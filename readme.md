@@ -1,3 +1,5 @@
+# Lab Backend Developer - Laboratorium Informatika, Universitas Muhammadiyah Makassar 
+
 # Panduan Pembuatan Backend REST API untuk Aplikasi Blog "Median"
 
 Dalam tutorial ini, Anda akan belajar bagaimana membangun backend REST API untuk aplikasi blog bernama "Median" (klon sederhana Medium). Anda akan memulai dengan membuat proyek NestJS baru. Selanjutnya, Anda akan memulai server PostgreSQL Anda sendiri dan menghubungkannya menggunakan Prisma. Terakhir, Anda akan membangun REST API dan mendokumentasikannya dengan Swagger.
